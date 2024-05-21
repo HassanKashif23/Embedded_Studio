@@ -1,1 +1,1 @@
-# Embedded_Studio
+A studio of my crafted Embedded Projects
