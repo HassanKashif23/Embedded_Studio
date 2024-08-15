@@ -1,2 +1,2 @@
-This project utilizes the ADC of the STM32 to interface a Potentiometer and to display its value to an 0.96" OLED display
+This project utilizes the ADC of the STM32 to interface a Potentiometer and I2C  to display its value to an 0.96" OLED display
 Also the library files "Fonts.c" and "ssd1306.c" and respective header files are included which must have to be add into "src" folder
